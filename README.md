@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😀 I'm Ryan
+- 🏫 A master student of [Graduate institude of Biomedical Engineering and Bioinformatics (BEBI)](http://www.bebi.ntu.edu.tw/web/index/index.jsp), [National Taiwan University (NTU)](https://www.ntu.edu.tw).
+- 🌱 I’m currently learning C/C++, Python
+- 🔭 I’m currently study in Machine Learning
+- ⚡ My hobbies: 🎹 | 🎸 | 📷 | 🏸 | 🏊
